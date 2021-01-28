@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\KYCS\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\KYCS\\.nuget\\packages"
+    ]
+  }
+}
